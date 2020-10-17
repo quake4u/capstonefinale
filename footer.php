@@ -11,7 +11,7 @@
       </div>
       <div class="copyright">
         <p class="white"> copyright &copy; <b>Chocolate & Moer</b></p>
-        <p><i class="fa fa-phone"></i> +00 (123) 456 7890 &nbsp;<i class="fa fa-envelope-o"></i> info@domain.com</p>
+        <p><i class="fa fa-phone"></i> +00 (123) 456 7890 &nbsp;<i class="fa fa-envelope-o"></i> info@finalcybersec.com</p>
       </div>
     </div>
   </div>
